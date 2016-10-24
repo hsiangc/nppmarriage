@@ -1,8 +1,8 @@
-# 支持時代力量頭像產生器
+# 時代力量婚姻平權頭像產生器
 
 ## Demo
 
-[這裡](http://yhsiang.github.io/nppsticker)
+[這裡](http://hsiangc.github.io/nppmarriage)
 
 
 ## 簡介
